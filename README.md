@@ -1,1 +1,3 @@
 # ExcerciseSolutions
+
+Trying the commands

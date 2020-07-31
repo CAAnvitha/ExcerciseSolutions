@@ -1,1 +1,4 @@
-Hello! we r adding this to learn hoe to revert stagged files
+Hi!
+i am new.txt file
+how are u ?
+i am doing good

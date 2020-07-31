@@ -1,0 +1,3 @@
+I am french File. I have content in french
+Hello u r 
+This line is added to '>>' to append the content to this french file
